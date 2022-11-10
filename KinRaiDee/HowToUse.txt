@@ -1,0 +1,12 @@
+VS Code : If you have 'live server' extension, you can go to 'index.html' and right click > 'Open With Live Server' 
+        : If you don't have live sever extension, open internet browser (such as Google Chrome or FireFox etc. ) and type 'http://localhost:(yourport)/' in search bar.
+        example my port is 5500 I will type 'http://localhost:5500/' in my internet browser search bar. 
+
+In app function : 1. Randomize your food by clicking a 'Random' button, the result will show in form bar.
+                  2. Add your meal list by typing the meal word into the form and then press the 'add' button, 
+                  you can also delete data by clicking 'delete'.
+
+
+Note : I'm so sorry for the lack of web decoration. Due to the three day period I received, 
+I have to take a two-day final exam and prepare to present my web application project. 
+So I might not be able to make the css, organize my code and do other bonuses in time..
